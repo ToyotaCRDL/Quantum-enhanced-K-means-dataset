@@ -14,6 +14,9 @@ qiskit-ibmq-provider: 0.9.0<br>
 qiskit-aqua: 0.7.5<br>
 qiskit: 0.21.0<br><br>
 
+##### Sample program
+q-kmeans.py<br><br>
+
 ##### Usage
 $ python q-kmeans.py<br><br>
 
